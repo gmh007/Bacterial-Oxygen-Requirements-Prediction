@@ -1,0 +1,4 @@
+aerobe	anaerobe	facultative
+aerobe	225	6	9
+anaerobe	10	142	0
+facultative	18	2	57
